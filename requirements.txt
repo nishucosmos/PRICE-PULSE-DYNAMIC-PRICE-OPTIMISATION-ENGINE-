@@ -1,0 +1,15 @@
+pandas
+numpy
+ipykernel
+fastapi
+uvicorn
+pandas
+pyspark
+scikit-learn
+lightgbm
+prophet
+nannyml
+pyyaml
+httpx
+ipython
+pytest
